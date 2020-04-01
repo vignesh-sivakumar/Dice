@@ -1,0 +1,53 @@
+body{
+  background-color: #363062;
+}
+
+h1{
+  color: #d8b9c3;
+  line-height: 1.5;
+  margin-top: 1%;
+}
+
+h2{
+  color: white;
+  font-size: 2.5rem;
+  line-height: 1;
+  padding-bottom: 8%;
+}
+
+/* Heading section */
+#heading{
+  text-align: center;
+}
+
+.headWord{
+  font-family: 'Spicy Rice', cursive;
+  font-size: 7rem;
+}
+/* Content section */
+.dice1{
+  padding-top: 2%;
+  text-align: center;
+}
+.dice2{
+  padding-top: 2%;
+  text-align: center;
+}
+
+.buton{
+  text-align: center;
+  margin-top: 2%;
+}
+
+.roll{
+  padding: 1% 5%;
+  font-size: 1.5rem;
+}
+
+#result{
+  color: #fffdf9;
+  font-size: 3rem;
+  text-align: center;
+  margin-top: 3%;
+  padding-bottom: 0;
+}
