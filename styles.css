@@ -12,7 +12,7 @@ h2{
   color: white;
   font-size: 2.5rem;
   line-height: 1;
-  padding-bottom: 8%;
+  padding-bottom: 5%;
 }
 
 /* Heading section */
@@ -64,5 +64,8 @@ h2{
   #heading{
     margin-top: 5%;
     margin-bottom: 10%;
+  }
+  .dice2{
+    margin-top: 8%;
   }
 }
