@@ -1,5 +1,5 @@
 body{
-  background-color: #363062;
+  background-color: red;
 }
 
 h1{
@@ -52,6 +52,7 @@ h2{
   padding-bottom: 0;
 }
 
+/*Responsiveness*/
 @media (max-width: 991px){
   .buton{
     margin-top: 15%;
